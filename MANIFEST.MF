@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Instituto Superior Técnico
+Implementation-Title: pt.utl.ist.po
+Implementation-Version: 17 de Novembro de 2010
+Specified-By: Nuno Mamede
+Class-Path: pt.jar
+Specification-Vendor: Instituto Superior Técnico
+Specification-Title: Gestor de um Editor Grafico
+Created-By: Pedro Reis dos Santos
+Specification-Version: 201011171923
+Main-Class: editor.Main
+
